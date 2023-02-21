@@ -1,0 +1,24 @@
+LAB1
+
+TESTE  1_1  -->  Qr(i,i)=10   0   1   0 0        Rr=1      LQE base    caso base
+TESTE  1_2  -->  Qr(i,i)=10   0   1   0 0        Rr=0.8    LQE base
+TESTE  1_3  -->  Qr(i,i)=1    0  100  0 0        Rr=1      LQE base
+TESTE  1_4  -->  Qr(i,i)=100  0  10   0 0        Rr=1      LQE base
+TESTE  1_5  -->  Qr(i,i)=50   0  10   0 0        Rr=1      LQE base
+TESTE  1_6  -->  Qr(i,i)=50   0  20   0 0        Rr=1      LQE base
+
+
+LAB2
+
+TESTE  2_1  -->  Qr(i,i)= 10   0   1  0  0       Rr=1      LQE base
+TESTE  2_2  -->  Qr(i,i)=100   0   1  0  0       Rr=1
+TESTE  2_3  -->  Qr(i,i)=100   0  10  0  0       Rr=1      LQE base - teste mais estável
+TESTE  2_4  -->  Qr(i,i)= 80   0  10  0  0       Rr=1      LQE base
+TESTE  2_5  -->  Qr(i,i)= 40   0  10  0  0       Rr=1      LQE base
+TESTE  2_6  -->  Qr(i,i)=100   0  20  0  0       Rr=1      LQE base
+TESTE  2_7  -->  Qr(i,i)=100   0  10  0  0       Rr=0.8    LQE base -  2º teste mais "estável"
+TESTE  2_8  -->  Qr(i,i)=100   0  10  0  0       Rr=1.5    LQE base
+TESTE  2_9  -->  Qr(i,i)=120   0  20  0  0       Rr=0.8    LQE base -  bom, mas convergência de alfa para 0 é lenta
+TESTE 2_10  -->  Qr(i,i)=140   0  20  0  0       Rr=0.8    LQE base
+TESTE 2_11  -->  Qr(i,i)=500   0  10  0  0       Rr=0.5    LQE base
+TESTE 2_12  -->  Qr(i,i)=500  10  10 10  0       Rr=0.5    LQE base

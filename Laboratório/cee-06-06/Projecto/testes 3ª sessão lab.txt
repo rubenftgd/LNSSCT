@@ -1,0 +1,25 @@
+LAB3
+
+LQR
+TESTE  3_1   -->  Qr(i,i)=14.59     0   364.7563   0 0         Rr=0.04     LQE base   bom
+TESTE  3_2   -->  Qr(i,i)=14.59     0   364.7563   0 0         Rr=0.04     LQE base   igual a teste 1, com perturbações induzidas
+TESTE  3_3   -->  Qr(i,i)=67        0   364.7563   0 0         Rr=0.04     LQE base   bom
+TESTE  3_4   -->  Qr(i,i)=67        0   364.7563   0 0         Rr=0.04     LQE base   igual a teste 3, com perturbações induzidas
+TESTE  3_5   -->  Qr(i,i)=131.3123  0   364.7563   0 0         Rr=0.04     LQE base   mau, caiu
+TESTE  3_6   -->  Qr(i,i)=200       0   364.7563   0 0         Rr=0.04     LQE base   bom
+TESTE  3_7   -->  Qr(i,i)=200       0   364.7563   0 0         Rr=0.04     LQE base   igual a teste 6, com perturbações induzidas
+TESTE  3_8   -->  Qr(i,i)=250       0   364.7563   0 0         Rr=0.04     LQE base   "boa" resposta alfa
+TESTE  3_9   -->  Qr(i,i)=275       0   600        0 0         Rr=0.04     LQE base   OK
+TESTE 3_10   -->  Qr(i,i)=275       0   600        0 0         Rr=0.04     LQE base   igual a teste 9, com perturbações induzidas
+TESTE 3_11   -->  Qr(i,i)=275       0   600        0 0         Rr=0.1      LQE base   má resposta...
+TESTE 3_12   -->  Qr(i,i)=275       0   600        0 0         Rr=0.07     LQE base   má resposta...
+
+
+LQE
+TESTE 3_13   -->  Qr(i,i)=275       0   600        0 0         Rr=0.04     Re=0.1*     Qe=0.1*    G=1
+TESTE 3_14   -->  Qr(i,i)=275       0   600        0 0         Rr=0.04     Re=0.05*    Qe=0.05*   G=0.95
+TESTE 3_15   -->  Qr(i,i)=275       0   600        0 0         Rr=0.04     Re=0.01*    Qe=0.1*    G=1
+TESTE 3_16   -->  Qr(i,i)=275       0   600        0 0         Rr=0.04     Re=0.001*   Qe=0.05*   G=1
+TESTE 3_17   -->  Qr(i,i)=275       0   600        0 0         Rr=0.04     Re=0.001*   Qe=0.01*   G=1
+TESTE 3_18   -->  Qr(i,i)=320       0   600        0 0         Rr=0.04     Re=0.001*   Qe=0.01*   G=1
+TESTE 3_19   -->  Qr(i,i)=320       0   700        0 0         Rr=0.04     Re=0.001*   Qe=0.01*   G=1
